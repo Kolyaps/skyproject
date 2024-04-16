@@ -1,3 +1,3 @@
 def str_upper(word:str):
-    """vashe"""
+    """kaif"""
     return word.upper()
